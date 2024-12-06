@@ -1,4 +1,42 @@
-<header>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Filmes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Catálogo de Filmes</h1>
+    </header>
+    
+    <section id="filmes">
+        <div class="cartao">
+            <h2>Filme 1</h2>
+            <img src="filme1.jpg" alt="Filme 1">
+            <p>Descrição do filme 1.</p>
+            <button onclick="alert('Detalhes do Filme 1')">Ver Detalhes</button>
+        </div>
+        <div class="cartao">
+            <h2>Filme 2</h2>
+            <img src="filme2.jpg" alt="Filme 2">
+            <p>Descrição do filme 2.</p>
+            <button onclick="alert('Detalhes do Filme 2')">Ver Detalhes</button>
+        </div>
+        <div class="cartao">
+            <h2>Filme 3</h2>
+            <img src="filme3.jpg" alt="Filme 3">
+            <p>Descrição do filme 3.</p>
+            <button onclick="alert('Detalhes do Filme 3')">Ver Detalhes</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Todos os direitos reservados</p>
+    </footer>
+</body>
+</html><header>
 
 <!--
   <<< Author notes: Course header >>>
