@@ -1,3 +1,57 @@
+Nome: Ana Clara Souza
+Endereço: Rua das Flores, 123 – São Paulo, SP
+Telefone: (11) 98765-4321
+E-mail: anaclara@email.com
+LinkedIn: linkedin.com/in/anaclarasouza
+Objetivo Profissional
+Profissional de Marketing com 5 anos de experiência em criação de estratégias digitais e gerenciamento de marcas. Busco uma posição de coordenadora de marketing em uma empresa inovadora, onde eu possa aplicar minha criatividade e habilidades analíticas para impulsionar o crescimento da marca e alcançar resultados significativos.
+
+Experiência Profissional
+Coordenadora de Marketing Digital
+Empresa XYZ | São Paulo, SP
+Julho de 2021 – Atual
+
+Desenvolvimento e execução de estratégias de marketing digital para campanhas de mídia paga, SEO e marketing de conteúdo.
+Análise de dados e relatórios de performance de campanhas, com foco em ROI e aumento da taxa de conversão.
+Gestão de equipe de 3 profissionais, incluindo designers e analistas de marketing.
+Aumento de 35% no engajamento das redes sociais da empresa em 6 meses.
+Assistente de Marketing
+Empresa ABC | São Paulo, SP
+Março de 2018 – Junho de 2021
+
+Suporte na criação de campanhas publicitárias e desenvolvimento de conteúdo para blogs e redes sociais.
+Responsável pela organização de eventos corporativos e ações promocionais.
+Implementação de estratégias de e-mail marketing, alcançando uma taxa de abertura de 22%.
+Participação na elaboração de pesquisas de mercado para o lançamento de novos produtos.
+Formação Acadêmica
+Bacharel em Comunicação Social – Publicidade e Propaganda
+Universidade de São Paulo (USP) | São Paulo, SP
+Conclusão: Dezembro de 2017
+
+Cursos e Certificações
+Curso de Marketing Digital Avançado
+Digital Marketing Academy | 2023
+
+Certificação em Google Ads
+Google | 2022
+
+Curso de Fotografia e Produção de Conteúdo
+Academia de Marketing Criativo | 2021
+
+Habilidades
+Gestão de campanhas de mídia paga (Google Ads, Facebook Ads).
+Análise de dados e relatórios (Google Analytics, SEMrush).
+Produção de conteúdo para redes sociais e blogs.
+Planejamento estratégico de marketing.
+Ferramentas de design (Canva, Photoshop).
+Liderança e trabalho em equipe.
+Idiomas
+Inglês: Avançado
+Espanhol: Intermediário
+Informações Adicionais
+Voluntária na organização de eventos de marketing digital para ONGs locais.
+Participação em workshops de inovação e novas tendências em marketing.
+Interesse por fotografia e criação de conteúdo audiovisual.
 <header>
 
 <!--
